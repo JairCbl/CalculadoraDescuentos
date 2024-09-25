@@ -1,0 +1,10 @@
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\bin\Debug\CalculadoraDescuentos.exe.config
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\bin\Debug\CalculadoraDescuentos.exe
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\bin\Debug\CalculadoraDescuentos.pdb
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\CalculadoraDescuentos.csproj.AssemblyReference.cache
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\CalculadoraDescuentos.Form1.resources
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\CalculadoraDescuentos.Properties.Resources.resources
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\CalculadoraDescuentos.csproj.GenerateResource.cache
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\CalculadoraDescuentos.csproj.CoreCompileInputs.cache
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\CalculadoraDescuentos.exe
+D:\PROG\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\CalculadoraDescuentos.pdb

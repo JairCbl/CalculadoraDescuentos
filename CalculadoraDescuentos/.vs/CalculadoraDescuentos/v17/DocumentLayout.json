@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4D775D-3054-46E9-9090-755C2D4277C9}|CalculadoraDescuentos\\CalculadoraDescuentos.csproj|D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\calculadoradescuentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4D775D-3054-46E9-9090-755C2D4277C9}|CalculadoraDescuentos\\CalculadoraDescuentos.csproj|solutionrelative:calculadoradescuentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4D775D-3054-46E9-9090-755C2D4277C9}|CalculadoraDescuentos\\CalculadoraDescuentos.csproj|D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\calculadoradescuentos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4D775D-3054-46E9-9090-755C2D4277C9}|CalculadoraDescuentos\\CalculadoraDescuentos.csproj|solutionrelative:calculadoradescuentos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4D775D-3054-46E9-9090-755C2D4277C9}|CalculadoraDescuentos\\CalculadoraDescuentos.csproj|d:\\documentos\\documentos\\github\\calculadoradescuentos\\calculadoradescuentos\\calculadoradescuentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4D775D-3054-46E9-9090-755C2D4277C9}|CalculadoraDescuentos\\CalculadoraDescuentos.csproj|solutionrelative:calculadoradescuentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\CalculadoraDescuentos\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraDescuentos\\Calculadora.cs",
+              "ToolTip": "D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\CalculadoraDescuentos\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraDescuentos\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:20:15.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\CalculadoraDescuentos\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraDescuentos\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\CalculadoraDescuentos\\Form1.cs",
+              "RelativeToolTip": "CalculadoraDescuentos\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:57:06.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\CalculadoraDescuentos\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraDescuentos\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\Documentos\\GitHub\\CalculadoraDescuentos\\CalculadoraDescuentos\\CalculadoraDescuentos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraDescuentos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:56:54.228Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
